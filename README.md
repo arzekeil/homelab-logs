@@ -12,4 +12,5 @@ To me, the definition of a Home lab is:
 
 ## Network Diagram
 
-Below is a picture of my current Home lab setup:  
+Below is a picture of my current Home lab setup:    
+![Home Lab Network Diagram](./homelab-network-diagram.drawio.png)  
